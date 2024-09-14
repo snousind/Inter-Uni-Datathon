@@ -1,2 +1,2 @@
 # Inter-Uni-Datathon
-Fradulent Transaction Detetcion
+Fradulent Transaction Detection
